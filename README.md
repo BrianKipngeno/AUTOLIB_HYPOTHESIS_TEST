@@ -2,11 +2,16 @@
 
 
 
-# Description #
+# AUTOLIB CAR SHARING HYPOTHESIS TEST #
 ```
 
-This is a repository containing a python notebook for an electric car-sharing service company with the task of processing stations data to understand electric car usage over time by solving for the following research question;
-Identify the most popular hour of the day for picking up a shared electric car (Bluecar) in the city of Paris over the month of April 2018
+This is a repository containing a python notebook for an electric car-sharing service company  Autolib with the task of answering the following hypothesis about the pick up and drop off of blue across various postal codes in Paris between January and June 2018
+
+Null Hypothesis -  The means of blue cars taken and cars returned during   the weekends are equal.
+Ho : μ1 = μ2 (where μ1 is the mean for Blue cars taken and μ2 is the mean for blue cars returned.)
+Alternate Hypothesis - The average number of blue cars picked up during the weekend is different from that of the blue cars returned.
+Ha : μ1 ≠ μ
+
 
 ```
 
@@ -22,10 +27,12 @@ Import pandas and Numpy libraries for data manipulation.
 
 Loading datasets and previewing datasets.
 
-Cleaning data; Renaming columns for uniformity, and dropping insignificant columns.
+Data Cleaning
 
-Create a new columns
-```
+Exploratory Data Analysis
+
+Immplementing the solution by carrying out an hypothesis test.
+
 
 # Technologies used
 
