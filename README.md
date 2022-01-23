@@ -22,11 +22,12 @@ Ha : μ1 ≠ μ
 
 # Installation Requirements
 ```
-
+  
 
 Use Google Colab or Jupyter Notebook for data preparation and analysis.
 
-Import pandas and Numpy libraries for data manipulation.
+Import pandas, Numpy,seaborn, matplotlib, pyplot
+libraries for data manipulation and EDA
 
 Loading datasets and previewing datasets.
 
