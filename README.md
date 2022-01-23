@@ -5,11 +5,14 @@
 # AUTOLIB CAR SHARING HYPOTHESIS TEST #
 ```
 
-This is a repository containing a python notebook for an electric car-sharing service company  Autolib with the task of answering the following hypothesis about the pick up and drop off of blue across various postal codes in Paris between January and June 2018
+This is a repository containing a python notebook for an electric car-sharing service company,  Autolib, 
+with the task of answering the following hypothesis about the pick up and drop off of
+blue across various postal codes in Paris between January and June 2018
 
 Null Hypothesis -  The means of blue cars taken and cars returned during   the weekends are equal.
 Ho : μ1 = μ2 (where μ1 is the mean for Blue cars taken and μ2 is the mean for blue cars returned.)
-Alternate Hypothesis - The average number of blue cars picked up during the weekend is different from that of the blue cars returned.
+Alternate Hypothesis - The average number of blue cars picked up during the weekend
+is different from that of the blue cars returned.
 Ha : μ1 ≠ μ
 
 
